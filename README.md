@@ -8,15 +8,15 @@ You can see a Github repo for Mark's website [here](https://github.com/mbuckler/
 Many thanks to [Skand Hurkat](https://people.ece.cornell.edu/skand/) for his
 [rework of the Hugo Academic Theme](https://github.com/skandhurkat/hugo-theme-cornellcsl)
 
-### Getting Started ###
+## Getting Started ##
 
 After cloning, use [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-to clone Skand's CSL Academic Theme.
+to clone Skand's CSL Academic Theme. Run the following inside the cloned directory:
 
-  git submodule init
-  git submodule update
+    git submodule init
+    git submodule update
 
-### Basic Guide ###
+## Basic Guide ##
 
 The layout of the homepage is configured in **config.toml**.
 All content is inside the **content** directory. Using Talks as an example:
