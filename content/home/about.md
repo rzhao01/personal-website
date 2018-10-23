@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2018-10-23T00:00:00"
 draft = false
 
 widget = "about"
@@ -13,26 +13,21 @@ weight = 1
 [interests]
   interests = [
     "Computer Architecture",
-    "Embedded Systems",
-    "Computer Vision",
-    "Machine Learning",
-    "VLSI"
+    "Digital Design for FPGAs",
+    "High-Level Synthesis",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Engineering"
   institution = "Cornell University"
+  #year = 2019
 
 [[education.courses]]
-  course = "M.S. in Electrical and Computer Engineering"
-  institution = "University of Somewhere"
-  year = 2025
-
-[[education.courses]]
-  course = "B.S. in Electrical Engineering"
-  institution = "Somewhere"
-  year = 2056
+  course = "B.S. in Electrical and Computer Engineering"
+  institution = "University of Toronto"
+  year = 2014
  
 +++
 
