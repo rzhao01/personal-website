@@ -20,7 +20,7 @@ publication = "Int'l Conf. on Computer Aided Design (ICCAD)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Modern high-level synthesis (HLS) tools commonly employ pipelining to achieve efficient loop acceleration by overlapping the execution of successive loop iterations. However, existing HLS techniques provide inadequate support for pipelining irregular loop nests that contain dynamic-bound inner loops, where unrolling is either very expensive or not even applicable. To overcome this major limitation, we propose ElasticFlow, a novel architectural synthesis approach capable of dynamically distributing inner loops to an array of loop processing units (LPUs) in a complexity-effective manner. These LPUs can be either specialized to execute an individual loop or shared amongst multiple inner loops for area reduction. We evaluate ElasticFlow using a variety of real-life applications and demonstrate significant performance improvements over a widely used commercial HLS tool for Xilinx FPGAs."
 abstract_short = ""
 
 # Does this page contain LaTeX math? (true/false)
