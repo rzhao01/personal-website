@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "https://www.cornell.edu/"
   avatar = "portrait.jpg"
   email = "rz252@cornell.edu"
-  address = "Rhodes Hall, Room 417E, Cornell University, New York, Ithaca, 14850, USA"
+  address = "Rhodes Hall, Room 417F, Cornell University, New York, Ithaca, 14850, USA"
   #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""
@@ -176,20 +176,20 @@ defaultContentLanguageInSubdir = false
 #  url = "#patents"
 #  weight = 3
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 5
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 6
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 6
 
 #[[menu.main]]
 #  name = "Teaching"
