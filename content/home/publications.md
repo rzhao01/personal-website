@@ -7,13 +7,13 @@ draft = false
 
 title = "Selected Publications"
 subtitle = ""
-widget = "publications"
+widget = "publications_selected"
 
 # Order that this section will appear in.
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # Show publication details (such as abstract)? (true/false)
 detailed_list = false
