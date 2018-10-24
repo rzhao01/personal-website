@@ -1,3 +1,3 @@
 [submodule "themes/cornellcsl"]
 	path = themes/cornellcsl
-	url = https://github.com/skandhurkat/hugo-theme-cornellcsl
+	url = git@github.com:rzhao01/hugo-theme-cornellcsl.git
