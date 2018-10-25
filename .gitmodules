@@ -1,3 +1,7 @@
 [submodule "themes/cornellcsl"]
 	path = themes/cornellcsl
 	url = git@github.com:rzhao01/hugo-theme-cornellcsl.git
+[submodule "publish"]
+	path = publish
+	url = git@github.com:rzhao01/rzhao01.github.io.git
+	branch = master
