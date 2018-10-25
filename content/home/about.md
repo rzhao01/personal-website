@@ -33,16 +33,17 @@ weight = 1
 
 # Biography
 
-I am currently a PhD Candiate in Electrical and Computer Engineering at Cornell University
+I am PhD Candiate in Electrical and Computer Engineering at Cornell University
 advised by [Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
+I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell.
+
+[My resume/CV](other/CV_Ritchie_Zhao.pdf)
+
 I started my PhD doing research on algorithms for FPGA high-level synthesis,
 working on improving HLS design quality without additional manual effort.
 My recent work focuses on hardware specialization for deep neural networks.
 Specifically, my goal is to redesign existing DNN algorithms to better suit
 energing hardware architectures.
-
-I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell,
-which is full of great people doing great research.
 
 I received my Bachelors in Electrical and Computer Engineering from University of Toronto in 2014.
 During my undergrad, I interned at Altera (now part of Intel) in the timing modeling team,
