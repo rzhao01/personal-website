@@ -44,7 +44,7 @@ url_pdf_rel = "papers/dac2015.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "slides/pipelining-dac2016.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
