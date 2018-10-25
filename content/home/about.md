@@ -37,8 +37,6 @@ I am PhD Candiate in Electrical and Computer Engineering at Cornell University
 advised by [Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
 I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell.
 
-[My resume/CV](other/CV_Ritchie_Zhao.pdf)
-
 I started my PhD doing research on algorithms for FPGA high-level synthesis,
 working on improving HLS design quality without additional manual effort.
 My recent work focuses on hardware specialization for deep neural networks.
@@ -51,3 +49,5 @@ as well as at IBM working on compilers for heterogeneous systems.
 During my grad career, I've interned twice at Microsoft Research in Redmond, working with
 Daniel Lo and Eric Chung on neural network quantization for the
 [Brainwave](https://www.microsoft.com/en-us/research/project/project-brainwave/) project.
+
+[My Resume/CV](other/CV_Ritchie_Zhao.pdf)
