@@ -1,4 +1,4 @@
-baseurl = "http://example.com"
+baseurl = "https://rzhao01.github.io"
 title = "Ritchie Zhao"
 copyright = "&copy; 2018 Ritchie Zhao"
 theme = "cornellcsl"
@@ -10,7 +10,7 @@ publishDir = "publish"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-128202120-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
