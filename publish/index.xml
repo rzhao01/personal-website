@@ -27,6 +27,15 @@ set-window-option -g xterm-keys on
     </item>
     
     <item>
+      <title>Building Efficient Deep Neural Networks with Unitary Group Convolutions</title>
+      <link>https://rzhao01.github.io/publication/hadanet_arxiv2017/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/hadanet_arxiv2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serving DNNs in Real Time at Datacenter Scale with Project Brainwave</title>
       <link>https://rzhao01.github.io/publication/brainwave_ieee_micro2017/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
