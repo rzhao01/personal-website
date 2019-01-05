@@ -38,10 +38,9 @@ advised by [Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
 I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell.
 
 I started my PhD doing research on algorithms for FPGA high-level synthesis,
-working on improving HLS design quality without additional manual effort.
-My recent work focuses on hardware specialization for deep neural networks.
-Specifically, my goal is to redesign existing DNN algorithms to better suit
-energing hardware architectures.
+working to improve HLS design quality without additional manual effort.
+More recently, my work has focused on hardware specialization for deep neural networks
+and redesigning DNN algorithms to better suit emerging hardware architectures.
 
 I received my Bachelors in Electrical and Computer Engineering from University of Toronto in 2014.
 During my undergrad, I interned at Altera (now part of Intel) in the timing modeling team,
