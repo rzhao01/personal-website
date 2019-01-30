@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ritchie Zhao</copyright>
-    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rzhao01.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Improving Neural Network Quantization Without Retraining using Outlier Channel Splitting</title>
+      <link>https://rzhao01.github.io/publication/ocs_arxiv2019/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/ocs_arxiv2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Building Efficient Deep Neural Networks with Unitary Group Convolutions</title>
-      <link>https://rzhao01.github.io/publication/hadanet_arxiv2017/</link>
+      <link>https://rzhao01.github.io/publication/hadanet_arxiv2018/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rzhao01.github.io/publication/hadanet_arxiv2017/</guid>
+      <guid>https://rzhao01.github.io/publication/hadanet_arxiv2018/</guid>
       <description></description>
     </item>
     
