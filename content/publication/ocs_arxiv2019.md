@@ -1,6 +1,6 @@
 +++
 
-title = "Improving Neural Network Quantization Without Retraining using Outlier Channel Splitting"
+title = "Improving Neural Network Quantization without Retraining using Outlier Channel Splitting"
 authors = ["Ritchie Zhao", "Yuwei Hu", "Jordan Dotzel", "Christopher De Sa", "Zhiru Zhang"]
 date = "2019-01-28"
 
