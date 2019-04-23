@@ -16,7 +16,7 @@ date = "2019-01-28"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint"
+publication = "arXiv preprint, to appear in International Conference on Machine Learning (ICML)"
 publication_short = ""
 
 # Abstract and optional shortened version.

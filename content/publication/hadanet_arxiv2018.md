@@ -16,7 +16,7 @@ date = "2018-09-19"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint"
+publication = "arXiv preprint, to appear in Computer Vision and Pattern Recognition (CVPR)"
 publication_short = ""
 
 # Abstract and optional shortened version.
