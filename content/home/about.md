@@ -33,7 +33,7 @@ weight = 1
 
 # Biography
 
-I am PhD Candiate in Electrical and Computer Engineering at Cornell University
+I am a PhD Candiate in Electrical and Computer Engineering at Cornell University
 advised by [Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
 I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell.
 
