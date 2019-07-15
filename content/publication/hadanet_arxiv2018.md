@@ -2,7 +2,7 @@
 
 title = "Building Efficient Deep Neural Networks with Unitary Group Convolutions"
 authors = ["Ritchie Zhao", "Yuwei Hu", "Jordan Dotzel", "Christopher De Sa", "Zhiru Zhang"]
-date = "2018-09-19"
+date = "2018-06-16"
 
 # Publication type.
 # Legend:
@@ -16,7 +16,7 @@ date = "2018-09-19"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint, to appear in Computer Vision and Pattern Recognition (CVPR)"
+publication = "Computer Vision and Pattern Recognition (CVPR)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -38,7 +38,7 @@ selected = true
 # Links (optional)
 doi = ""
 arXiv = "1811.07755v1"
-url_pdf = "https://arxiv.org/pdf/1811.07755.pdf"
+url_pdf = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Building_Efficient_Deep_Neural_Networks_With_Unitary_Group_Convolutions_CVPR_2019_paper.pdf"
 url_pdf_rel = ""
 url_code = ""
 url_dataset = ""

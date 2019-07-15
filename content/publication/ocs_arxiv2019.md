@@ -2,7 +2,7 @@
 
 title = "Improving Neural Network Quantization without Retraining using Outlier Channel Splitting"
 authors = ["Ritchie Zhao", "Yuwei Hu", "Jordan Dotzel", "Christopher De Sa", "Zhiru Zhang"]
-date = "2019-01-28"
+date = "2019-06-09"
 
 # Publication type.
 # Legend:
@@ -16,7 +16,7 @@ date = "2019-01-28"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv preprint, to appear in International Conference on Machine Learning (ICML)"
+publication = "International Conference on Machine Learning (ICML)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -38,12 +38,12 @@ selected = true
 # Links (optional)
 doi = ""
 arXiv = "1901.09504"
-url_pdf = "https://arxiv.org/pdf/1901.09504.pdf"
+url_pdf = "http://proceedings.mlr.press/v97/zhao19c/zhao19c.pdf"
 url_pdf_rel = ""
 url_code = "https://github.com/cornell-zhang/dnn-quant-ocs"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://s3.amazonaws.com/postersession.ai/83213bc7-60a0-4d0e-b47d-6186a03a72a0.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
