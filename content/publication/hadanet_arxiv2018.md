@@ -37,7 +37,7 @@ selected = true
 
 # Links (optional)
 doi = ""
-arXiv = "1811.07755v1"
+arXiv = "1811.07755"
 url_pdf = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Building_Efficient_Deep_Neural_Networks_With_Unitary_Group_Convolutions_CVPR_2019_paper.pdf"
 url_pdf_rel = ""
 url_code = ""
