@@ -33,20 +33,17 @@ weight = 1
 
 # Biography
 
-I am a PhD Candiate in Electrical and Computer Engineering at Cornell University
-advised by [Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
-I'm part of the [Computer Systems Lab (CSL)](https://www.csl.cornell.edu) at Cornell.
 
-I started my PhD doing research on algorithms for FPGA high-level synthesis,
-working to improve HLS design quality without additional manual effort.
-More recently, my work has focused on hardware specialization for deep neural networks
-and redesigning DNN algorithms to better suit emerging hardware architectures.
+I received my PhD in ECE from Cornell University in May 2020, under
+[Professor Zhiru Zhang](www.csl.cornell.edu/~zhiruz).
+My graduate research is on hardware acceleration for deep neural networks (DNNs),
+with specific focus on DNN quantization, DNN accelerator design, and high-level
+synthesis design flows. I am particularly interested in designing DNNs and 
+hardware systems in conjunction for greater synergy.
 
-I received my Bachelors in Electrical and Computer Engineering from University of Toronto in 2014.
-During my undergrad, I interned at Altera (now part of Intel) in the timing modeling team,
-as well as at IBM working on compilers for heterogeneous systems.
-During my grad career, I've interned twice at Microsoft Research in Redmond, working with
-Daniel Lo and Eric Chung on neural network quantization for the
+During my graduate career, I interned at Microsoft Research in Redmond, working
+with Daniel Lo and Eric Chung on low-precision inference for the 
 [Brainwave](https://www.microsoft.com/en-us/research/project/project-brainwave/) project.
+I'm now working full time at Microsoft in the AI and Advanced Architectures team.
 
 [My Resume/CV](other/CV_Ritchie_Zhao.pdf)

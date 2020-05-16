@@ -13,7 +13,7 @@ date = "2019-06-09"
 # 4 = Technical report
 # 5 = Booka
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "International Conference on Machine Learning (ICML)"

@@ -1,6 +1,6 @@
 baseurl = "https://rzhao01.github.io"
 title = "Ritchie Zhao"
-copyright = "&copy; 2018 Ritchie Zhao"
+copyright = "&copy; 2020 Ritchie Zhao"
 theme = "cornellcsl"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -21,12 +21,12 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Ritchie Zhao"
-  role = "PhD Candidate"
+  role = "ML Hardware Engineer"
   organization = "Cornell University"
   organization_url = "https://www.cornell.edu/"
   avatar = "portrait.jpg"
   email = "rz252@cornell.edu"
-  address = "Rhodes Hall 417F, Cornell University. Ithaca, NY 14850, USA"
+  address = "10333 Main Street Apt 458, Bellevue, WA 98004, USA"
   #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""

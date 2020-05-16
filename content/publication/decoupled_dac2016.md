@@ -34,7 +34,7 @@ highlight = false
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Links (optional)
 doi = "10.1145/2897937.2898030"

@@ -20,7 +20,7 @@ publication = "Design Automation Conference (DAC)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Traditional techniques for pipeline scheduling in high-level synthesis for FPGAs assume an additive delay model where each operation incurs a pre-characterized delay. While a good approximation for some operation types, this fails to consider technology mapping, where a group of logic operations can be mapped to a single lookup table (LUT) and together incur one LUT worth of delay. We propose an exact formulation of the throughput-constrained, mappingaware pipeline scheduling problem for FPGA-targeted high-level synthesis with area minimization being a primary objective. By taking this cross-layered approach, our technique is able to mitigate the pessimism inherent in static delay estimates and reduce the usage of LUTs and pipeline registers. Experimental results using our method demonstrate improved resource utilization for a number of logic-intensive, real-life benchmarks compared to a state-of-the-art commercial HLS tool for Xilinx FPGAs."
+abstract = "Traditional techniques for pipeline scheduling in high-level synthesis for FPGAs assume an additive delay model where each operation incurs a pre-characterized delay. While a good approximation for some operation types, this fails to consider technology mapping, where a group of logic operations can be mapped to a single look-up table (LUT) and together incur one LUT worth of delay. We propose an exact formulation of the throughput-constrained, mapping-aware pipeline scheduling problem for FPGA-targeted high-level synthesis with area minimization being a primary objective. By taking this cross-layered approach, our technique is able to mitigate the pessimism inherent in static delay estimates and reduce the usage of LUTs and pipeline registers. Experimental results using our method demonstrate improved resource utilization for a number of logic-intensive, real-life benchmarks compared to a state-of-the-art commercial HLS tool for Xilinx FPGAs."
 
 abstract_short = ""
 
@@ -34,7 +34,7 @@ highlight = false
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Links (optional)
 doi = "10.1145/2744769.2744801"

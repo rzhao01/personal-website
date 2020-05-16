@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Ritchie Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ritchie Zhao</copyright>
+    <copyright>&amp;copy; 2020 Ritchie Zhao</copyright>
     <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rzhao01.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rzhao01.github.io/home/about/</guid>
-      <description>Biography I am a PhD Candiate in Electrical and Computer Engineering at Cornell University advised by Professor Zhiru Zhang. I&amp;rsquo;m part of the Computer Systems Lab (CSL) at Cornell.
-I started my PhD doing research on algorithms for FPGA high-level synthesis, working to improve HLS design quality without additional manual effort. More recently, my work has focused on hardware specialization for deep neural networks and redesigning DNN algorithms to better suit emerging hardware architectures.</description>
+      <description>Biography I received my PhD in ECE from Cornell University in May 2020, under Professor Zhiru Zhang. My graduate research is on hardware acceleration for deep neural networks (DNNs), with specific focus on DNN quantization, DNN accelerator design, and high-level synthesis design flows. I am particularly interested in designing DNNs and hardware systems in conjunction for greater synergy.
+During my graduate career, I interned at Microsoft Research in Redmond, working with Daniel Lo and Eric Chung on low-precision inference for the Brainwave project.</description>
     </item>
     
     <item>
