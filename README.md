@@ -27,4 +27,4 @@ All content is inside the **content** directory. Using Talks as an example:
 
 So to add a new talk, create a new .md in the content/talk/ directory.
 
-
+```hugo server``` will build and test the website.
